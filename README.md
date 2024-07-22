@@ -1,7 +1,8 @@
 # Pizza Sales Analysis  
 ![Capture](https://github.com/user-attachments/assets/236dff8d-04d5-433b-bac1-df4a7a27534f)
 
-![q](https://github.com/user-attachments/assets/66a22e0d-1523-409f-ad20-8247fbdb4b76)
+![q](https://github.com/user-attachments/assets/6950c48e-dbdc-4805-9c38-ce702e3908dc)
+
 
 ## Tools used
 - Excel
