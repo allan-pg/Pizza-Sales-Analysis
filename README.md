@@ -16,7 +16,10 @@ The synthetic dataset contains pizza sales records from january to december for 
 ## The Data Cleaning and Transformation
 The dataset was relatively clean but required some adjustments and transformations to make it suitable for analysis and to generate more comprehensive insights. The following transformations were made:
 
-**Date Adjustments:** order date was not in date format i converted it to date type and from order date i extracted month name and day name 
+**Date Adjustments:** order date was not in date format i converted it to date type and from order date i extracted month name and day name
+- Mont_name - i extracted month name from order date
+- Day_name - Day name was also extracted from order time
+- Morning/Afternoon - i extracted this from order time in our table 
 
 ## Data Visualization and Analysis
 To derive the best insights from this analysis, I created a two-page report covering an overview and pizza`s sold.
@@ -28,3 +31,4 @@ Number of Pizza`s sold: 49,570
 Number of Pizza sold by size  
 
 ## Detailed Insights and Analysis
+1. How much has been made from sale of pizzas?
