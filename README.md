@@ -1,4 +1,8 @@
 # Pizza Sales Analysis  
+![Capture](https://github.com/user-attachments/assets/236dff8d-04d5-433b-bac1-df4a7a27534f)
+
+![q](https://github.com/user-attachments/assets/19d581e2-898a-4fe1-b758-19184e0560dd)
+
 ## Tools used
 - Excel
 - Power BI  
