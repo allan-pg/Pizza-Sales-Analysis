@@ -31,4 +31,23 @@ Number of Pizza`s sold: 49,570
 Number of Pizza sold by size  
 
 ## Detailed Insights and Analysis
-1. How much has been made from sale of pizzas?
+1. How much has been made from sale of pizzas? $817, 860
+2. How many pizzas have been sold according to size?
+   - Large - 19, 000
+   - Medium - 15, 600
+   - Small - 14, 400
+   - X large - 600
+   - xx large - 0
+3. Which months were the most sales made?
+   - July was the most busiest with $ 73, 000 being made followed by May and March respectively
+   - October we made the least sales of $ 64, 000
+4. Which Month did we sell most pizzas and how many were they
+   - July we sold most pizzas of 4,400 pieces
+   - Large size pieces were sort after the most with 1,697 pieces being sold
+5. Which days did we make the most sales?
+    - Fridays were the busiest days Followed by Thursday and saturday respectively
+    - Sunday was the least busiest days
+6. Which was the best sold pizza type?
+    - The Barbeccue Chicken Pizza was most sort after with 2432 pieces being sold
+    - The Brie Carre Pizza was least sold with only 490 pieces being sold
+7. 
