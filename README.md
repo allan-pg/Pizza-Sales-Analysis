@@ -1,6 +1,5 @@
 # Pizza Sales Analysis  
-**The first Page**   
-**Overview**  
+**The first Page Overview**   
 ![Capture](https://github.com/user-attachments/assets/236dff8d-04d5-433b-bac1-df4a7a27534f)
 
 **The second page**  
