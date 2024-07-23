@@ -29,6 +29,11 @@ nsights Generated from the Reports
 Total Amount from pizza sales: $817, 860  
 Number of Pizza`s sold: 49,570  
 Number of Pizza sold by size  
+ - Small 
+ - Medium 
+ - Large 
+ - X Large  
+ - XX Large 
 
 ## Detailed Insights and Analysis
 1. How much has been made from sale of pizzas? $817, 860
@@ -50,4 +55,4 @@ Number of Pizza sold by size
 6. Which was the best sold pizza type?
     - The Barbeccue Chicken Pizza was most sort after with 2432 pieces being sold
     - The Brie Carre Pizza was least sold with only 490 pieces being sold
-7. 
+
