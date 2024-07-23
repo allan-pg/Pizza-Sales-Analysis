@@ -14,7 +14,7 @@
 As an Analytics Consultant for a pizza sales shop. I have been asked to build a high-level KPI report for the Executive team, based on the sales records. The purpose of the report is to give stakeholders visibility into the shop’s recent performance.  
 
 ## About the Dataset  
-The synthetic dataset contains pizza sales records from january to december for the year 2015. It has over 48,000 rows and 12 colums on quantity of pizza sold, time of sale, price of pizza and dates of whole yaer.
+The synthetic dataset contains pizza sales records from january to december for the year 2015. It has over 48,000 rows and 12 colums on quantity of pizza sold, time of sale, price of pizza and dates of whole year in 2015.
 
 ## The Data Cleaning and Transformation
 The dataset was relatively clean but required some adjustments and transformations to make it suitable for analysis and to generate more comprehensive insights. The following transformations were made:
