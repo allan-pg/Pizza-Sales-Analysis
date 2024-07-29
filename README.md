@@ -1,6 +1,7 @@
 # Pizza Sales Analysis  
 **The first Page Overview**   
-![Capture](https://github.com/user-attachments/assets/236dff8d-04d5-433b-bac1-df4a7a27534f)
+![Capture](https://github.com/user-attachments/assets/c0a7a5de-9433-48ea-be49-7a3c33de6a2e)
+
 
 **The second page**  
 **To view the page press ctrl and click on pizza sold button**
@@ -45,8 +46,8 @@ Number of Pizza sold by size
    - Medium - 15, 600
    - Small - 14, 400
    - X large - 600
-   - xx large - 0
-   - Large pizzas are in high demands
+   - xx large - less than 200 pizzas sold
+   - Large pizzas are in high demands and xx large have a very low demand
 3. Which months were the most sales made?
    - July was the most busiest with $ 73, 000 being made followed by May and March respectively
    - October we made the least sales of $ 64, 000
