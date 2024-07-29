@@ -46,6 +46,7 @@ Number of Pizza sold by size
    - Small - 14, 400
    - X large - 600
    - xx large - 0
+   - Large pizzas are in high demands
 3. Which months were the most sales made?
    - July was the most busiest with $ 73, 000 being made followed by May and March respectively
    - October we made the least sales of $ 64, 000
