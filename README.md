@@ -5,7 +5,8 @@
 
 **The second page**  
 **To view the page press ctrl and click on pizza sold button**
-![q](https://github.com/user-attachments/assets/6950c48e-dbdc-4805-9c38-ce702e3908dc)
+![Capture](https://github.com/user-attachments/assets/e104bc44-fe64-4180-becd-1404153cc839)
+
 
 
 ## Tools used
